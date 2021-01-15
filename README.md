@@ -1,5 +1,7 @@
-# fatfree-tutorial-mysql-database
+# fatfree-tutorial-models
 
-This is the code for a youtube video that helps you get a MySQL database up and running in the Fat-Free PHP Framework.
+This ist he code used in the YouTube video below for using models/mappers in the Fat-Free PHP Framework.
 
-[https://youtu.be/dZ_FscVVm3I](https://youtu.be/dZ_FscVVm3I)
+[![Configuation Files for Fat-Free](https://img.youtube.com/vi/1emj-H4Re-o/0.jpg)](https://youtu.be/1emj-H4Re-o)
+
+[https://youtu.be/1emj-H4Re-o](https://youtu.be/1emj-H4Re-o)
