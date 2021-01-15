@@ -1,5 +1,6 @@
 {
     "require": {
-        "bcosca/fatfree-core": "^3.7"
+        "bcosca/fatfree-core": "^3.7",
+        "n0nag0n/fatfree-environment-check": "^0.1.0"
     }
 }
